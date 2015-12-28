@@ -1,0 +1,15 @@
+C:\Projects\DuplicateData\DuplicateData.WPF\bin\Debug\DuplicateData.WPF.exe.config
+C:\Projects\DuplicateData\DuplicateData.WPF\bin\Debug\DuplicateData.WPF.exe
+C:\Projects\DuplicateData\DuplicateData.WPF\bin\Debug\DuplicateData.WPF.pdb
+C:\Projects\DuplicateData\DuplicateData.WPF\obj\Debug\DuplicateData.WPF.csprojResolveAssemblyReference.cache
+C:\Projects\DuplicateData\DuplicateData.WPF\obj\Debug\MainWindow.baml
+C:\Projects\DuplicateData\DuplicateData.WPF\obj\Debug\MainWindow.g.cs
+C:\Projects\DuplicateData\DuplicateData.WPF\obj\Debug\App.g.cs
+C:\Projects\DuplicateData\DuplicateData.WPF\obj\Debug\DuplicateData.WPF_MarkupCompile.cache
+C:\Projects\DuplicateData\DuplicateData.WPF\obj\Debug\DuplicateData.WPF.g.resources
+C:\Projects\DuplicateData\DuplicateData.WPF\obj\Debug\DuplicateData.WPF.Properties.Resources.resources
+C:\Projects\DuplicateData\DuplicateData.WPF\obj\Debug\DuplicateData.WPF.csproj.GenerateResource.Cache
+C:\Projects\DuplicateData\DuplicateData.WPF\obj\Debug\DuplicateData.WPF.exe
+C:\Projects\DuplicateData\DuplicateData.WPF\obj\Debug\DuplicateData.WPF.pdb
+C:\Projects\DuplicateData\DuplicateData.WPF\bin\Debug\DuplicateData.Domain.dll
+C:\Projects\DuplicateData\DuplicateData.WPF\bin\Debug\DuplicateData.Domain.pdb

@@ -1,0 +1,5 @@
+C:\Projects\DuplicateData.Domain\bin\Debug\DuplicateData.Domain.dll
+C:\Projects\DuplicateData.Domain\bin\Debug\DuplicateData.Domain.pdb
+C:\Projects\DuplicateData.Domain\obj\Debug\DuplicateData.Domain.dll
+C:\Projects\DuplicateData.Domain\obj\Debug\DuplicateData.Domain.pdb
+C:\Projects\DuplicateData.Domain\obj\Debug\DuplicateData.Domain.csprojResolveAssemblyReference.cache

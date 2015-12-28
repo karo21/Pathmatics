@@ -1,0 +1,99 @@
+ABC News	NBC News
+ACEA	CEA
+America�s Cup Event Authority LLC	America's Cup Event Authority LLC
+Amway	Axway
+ANA	ANZ	CNA
+ANZ	GANZ
+API	APS
+APS	AXS
+ATP	STP
+Avios	Avis
+Bandoo Media Inc.	Bandoo Media, Inc.
+BD	BDP	BP
+BDP	BP	BRP
+BECU	SECU
+Belhaven University	Bellhaven University
+Bills.com	Billy.com
+Bizo	Brizo
+Booking.com	Cooking.com
+BP	BRP	CBP	HP
+brightsolid online publishing (UK) Inc	brightsolid online publishing (US) Inc
+BRP	SRP
+C&A	CEA	CNA
+CA, Inc.	CX, Inc.
+CAP	CBP	CCP	TAP
+Care.com	Care2.com
+CBP	CCP
+CCH	CCP
+CCP	CHCP
+CEA	CNA
+CFIP	PFIP
+CIBC	CNBC
+City of Seattle	CityU of Seattle
+CNA	CNN
+Confio, Inc.	Convio, Inc.
+Curves International, Inc	Curves International, Inc.
+CyberPower Inc	CyberPower Inc.
+Deseret News	Desert News
+FEMA	SEMA
+Festival Fun Parks LLC	Festival Fun Parks, LLC
+Fiba	Fila
+Gazo	pazo
+H&M	HSM
+Hearthware, Inc.	Hearthware,Inc.
+Hugo Movie	Hugo Movie
+i�m SpA	i'm SpA
+IBM	MBM
+IGA, Inc.	IGC, Inc.
+IGC, Inc.	IMC, Inc.
+INDI	INTI
+J Edgar Movie	J. Edgar Movie
+KFC	UFC
+Kodak	Kodiak
+Lendgo, Inc.	Lendio, Inc.
+Machine Gun Preacher Movie	Machine Gun Preacher Movie
+Meebo	Neebo
+Metro	Petro
+Millenium Entertainment	Millennium Entertainment
+Mind	Mini
+Minyanville Media, Inc	Minyanville Media, Inc.
+MLB	MLS
+Moozy	Mozy
+My Wireless	MyWireless
+NCAA	NCTA
+NPR	PPR
+OMG	TMG
+Parent Media Group Inc.	Parent Media Group, Inc.
+PC Tools	PCTools
+Pepco	Petco
+Petco	Petro
+Ping	Ting
+Playkix	Playrix
+PMC	PwC
+Pura Cleanse	PuraCleanse
+Rooms To Go, Inc. 	Rooms To Go, Inc.
+Saint Joseph�s University	Saint Joseph's University
+Schwan�s Consumer Brands, Inc.	Schwan's Consumer Brands, Inc.
+SECU	SEIU
+Servis	Tervis
+Seton Hall University	Seton Hill University
+Siilver Linings Playbook Movie	Silver Linings Playbook Movie
+Smarter Travel Media LLC	Smarter Travel Media LLC.
+SolarWinds Inc.	SolarWinds, Inc.
+Splunk Inc.	Splunk, Inc.
+SRP	SRU	STP
+Standford University	Stanford University
+Telefonica UK Limited	Telef�nica UK Limited
+The E. W. Scripps Company	The E.W. Scripps Company
+The Regents of the University of Michigan	The Regents of the University of Michigan
+The Twilight Saga Breaking Dawn - Part 1 Movie	The Twilight Saga Breaking Dawn - Part 2 Movie
+Time Inc.	Time, Inc.
+TMG	TMZ	TVG
+Vans	Vns	Vons
+Verti Technology Group, Inc	Verti Technology Group, Inc.
+VH1	VHA
+Vitals.com	Vitas.com
+Vns	Vons
+W3i, LLC	W3i, LLC.
+Xero	Xerox
+Zeo Inc.	Zep Inc.

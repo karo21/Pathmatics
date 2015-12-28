@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateData.Domain", "..\DuplicateData.Domain\DuplicateData.Domain.csproj", "{1A1E47ED-8EEB-49E2-93F3-17FC6A5E01EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateData.WPF", "DuplicateData.WPF\DuplicateData.WPF.csproj", "{7FAA10CA-461A-4310-A483-D1F1B0964C1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A1E47ED-8EEB-49E2-93F3-17FC6A5E01EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1E47ED-8EEB-49E2-93F3-17FC6A5E01EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1E47ED-8EEB-49E2-93F3-17FC6A5E01EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1E47ED-8EEB-49E2-93F3-17FC6A5E01EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FAA10CA-461A-4310-A483-D1F1B0964C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FAA10CA-461A-4310-A483-D1F1B0964C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FAA10CA-461A-4310-A483-D1F1B0964C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FAA10CA-461A-4310-A483-D1F1B0964C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
